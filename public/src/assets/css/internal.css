@@ -1,0 +1,16 @@
+.container{
+    margin: auto;
+    width:90%;
+    height: auto;
+}
+
+.panel{
+    width:48%;
+    display: inline-block;
+    vertical-align: top;
+}
+
+img{
+    width: 100%;
+    height: auto;
+}
